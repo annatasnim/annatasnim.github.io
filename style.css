@@ -1,0 +1,33 @@
+
+body{
+	background-color:pink;
+
+}
+h1{
+	color:purple;
+	font-family:Monaco;
+
+}
+td{
+	color:blue;		
+}
+th{
+	color:red;
+}
+
+table{
+	background-color: powderblue;
+	font-family:Courier;
+	color:purple;
+}
+h3{
+	color:green;
+}
+h4{
+	color:blue;
+	font-family:Monaco;
+}
+p{
+	font-family:Courier;
+	font-size: 20px;
+}
